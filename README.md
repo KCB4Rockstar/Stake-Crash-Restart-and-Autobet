@@ -1,7 +1,7 @@
 This script also renders graphics on top of the page to help track the state of the script and your bets.
 
 Here are the configurations in the script.
-
+```javascript
 //----USER CONFIGURATIONS//////////
 
 //-Crash Configuration
@@ -23,3 +23,4 @@ let preferredCoinForReload = 'usdt'; //For the reload script, which coin should 
 let autoClaimRakeback = false; //if true, the script will attempt to collect the VIP Rakeback every 1hr.
 
 //----END OF USER CONFIGURATIONS--------/
+```
